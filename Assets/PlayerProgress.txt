@@ -1,0 +1,1 @@
+{"lvl":6,"points":6,"exp":235.0,"killed":55,"maxLvl":5,"precision":0,"speed":0,"jump":0,"health":0}
